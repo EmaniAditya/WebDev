@@ -10,3 +10,7 @@ body {
     color: purple;
     font-family: monospace;
 }
+
+.highlight {
+    background: yellow;
+}
